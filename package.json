@@ -1,5 +1,8 @@
 {
+  "scripts": {
+    "start": "node ."
+  },
   "dependencies": {
-    "playwright": "^0.15.0"
+    "playwright": "^1.33.0"
   }
 }
